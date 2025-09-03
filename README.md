@@ -193,7 +193,7 @@ build: {
 
 Añade la **URL pública** aquí cuando la tengas:
 
-- Demo: task-manager-delta-neon.vercel.app
+- Demo: [task-manager-delta-neon.vercel.app](https://task-manager-delta-neon.vercel.app)
 
 ---
 
@@ -219,7 +219,7 @@ Añade la **URL pública** aquí cuando la tengas:
 ## 👤 Autor
 
 **Paul Timothy Kuno** — juchpaul20@gmail.com  
-GitHub: GitHub: https://github.com/juchpaul20/task-manager
+GitHub: https://github.com/juchpaul20/task-manager
 
 ---
 
