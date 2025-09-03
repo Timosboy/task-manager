@@ -12,7 +12,7 @@
 
 | Tasks                                | Todos (API)                          | Chart                                | About                                |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Tasks](docs/screenshots/tasks.png) | ![Todos](docs/screenshots/todos.png) | ![Chart](docs/screenshots/chart.png) | ![About](docs/screenshots/about.png) |
+| ![Tasks](docs/screenshots/task.png) | ![Todos](docs/screenshots/todos.png) | ![Chart](docs/screenshots/chart.png) | ![About](docs/screenshots/about.png) |
 
 > Sugerencia: nombra los archivos `tasks.png`, `todos.png`, `chart.png`. Usa texto alternativo descriptivo.
 
@@ -195,7 +195,7 @@ build: {
 
 Añade la **URL pública** aquí cuando la tengas:
 
-- Demo: **https://TU-DEPLOY.vercel.app**
+- Demo: task-manager-delta-neon.vercel.app
 
 ---
 
@@ -221,7 +221,7 @@ Añade la **URL pública** aquí cuando la tengas:
 ## 👤 Autor
 
 **Paul Timothy Kuno** — juchpaul20@gmail.com  
-GitHub: _(añade el enlace cuando publiques el repo)_
+GitHub: GitHub: https://github.com/juchpaul20/task-manager
 
 ---
 
