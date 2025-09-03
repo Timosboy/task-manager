@@ -14,8 +14,6 @@
 | ------------------------------------ | ------------------------------------ | ------------------------------------ | ------------------------------------ |
 | ![Tasks](docs/screenshots/task.png) | ![Todos](docs/screenshots/todos.png) | ![Chart](docs/screenshots/chart.png) | ![About](docs/screenshots/about.png) |
 
-> Sugerencia: nombra los archivos `tasks.png`, `todos.png`, `chart.png`. Usa texto alternativo descriptivo.
-
 ---
 
 ## ✨ Características
