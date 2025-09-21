@@ -1,5 +1,6 @@
 import { NavLink, Route, Routes, Navigate } from 'react-router-dom'
 import { Suspense, lazy } from 'react'
+import AuthGate from './components/AuthGate'
 import {
   ClipboardList,
   ListTodo,
@@ -61,6 +62,7 @@ export default function App() {
       <main className="px-4 md:px-6 py-6">
         <Suspense fallback={<p className="text-sm text-muted-foreground">Cargando…</p>}>
           <Routes>
+            <Route path="/board" element={<AuthGate><Board /></AuthGate>} />
             <Route path="/" element={<Navigate to="/board" replace />} />
             <Route path="/about" element={<About />} />
             <Route path="/todos" element={<Todos />} />
