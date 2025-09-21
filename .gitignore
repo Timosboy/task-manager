@@ -49,3 +49,12 @@ coverage/
 # SO / IDE extra
 Thumbs.db
 *.iml
+
+# Amplify (local only)
+amplify/#current-cloud-backend/
+amplify/.config/local-*
+amplify/mock-data/
+amplify/backend/.temp/**
+
+# Otros
+*.tgz
