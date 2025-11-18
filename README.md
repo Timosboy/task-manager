@@ -56,9 +56,8 @@ src/
   tests/
     setupTests.ts
     tasks.test.tsx          # storage básico
-    tasks.render.test.tsx   # (opcional) test de UI
 docs/
-  screenshots/              # coloca tus capturas aquí
+  screenshots/          
 ```
 
 ---
@@ -111,7 +110,6 @@ Ejemplos incluidos:
 Configuración clave (`vite.config.ts`):
 
 ```ts
-/// <reference types="vitest" />
 import { defineConfig } from 'vitest/config'
 import react from '@vitejs/plugin-react'
 
